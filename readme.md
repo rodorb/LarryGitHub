@@ -2,4 +2,5 @@
 
 Esta serie de libros cuentan la historia de un hcaker de leyenda.
 
-**Rodolfo Rodriguez**, Git fan
+**Rodolfo Rodriguez**, Git fan & Larry PLotter fan
+
